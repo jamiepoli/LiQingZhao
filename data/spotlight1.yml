@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Analysis of Her Collection"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  We consolidate known records and remnants of her remaining <strong>collection</strong>, and through this we hope to acheive a way to return to her a sense of ownership over what was lost to her.
 button: 
   label: "Learn More"
   link: "#"
-image: "images/spotlight01.jpg"
+image: "https://www.schoyencollection.com/media/djcatalog2/images/liu-zongyuan-complete-works-of-poetry-ms-2664_f.jpg"

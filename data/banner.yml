@@ -1,10 +1,10 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "The Library of Li Qingzhao's Collections"
+title : "The Blog of Li QingZhao"
 subtitle: |
-  Rememberance of Things Past
+  A modern love-letter to one of China's greatest poets and scholars. 
 content : |
-  Re-imagining the lost collection of one of China's greatest poets and literary scholars.
+  We seek to re-imagine the once-legendary collection of ancient literature and creative work of Li QingZhao, Song-dynasty poet and scholar.
 button:
   label : "Get Started"
   link : "#first"
