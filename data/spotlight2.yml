@@ -6,4 +6,5 @@ content: |
 button: 
   label: "Learn More"
   link: "#"
-image: "https://pic.17qq.com/uploads/wwqqpwfwky.jpeg"
+#image: "https://pic.17qq.com/uploads/wwqqpwfwky.jpeg"
+image: "images/poemspotlight.jpg"
