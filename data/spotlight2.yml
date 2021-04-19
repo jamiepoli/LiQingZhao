@@ -2,9 +2,9 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Her poems"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+    Many of her well-known and celebrated <strong>poems</strong> are collected here. Her collection is not only an archive of reknown scholars throughout the dynasties, but as well a record of her own terrific poems - which carry a grace and prose still appreciated to this day.
+#button: 
+#  label: "Learn More"
+#  link: "#"
 #image: "https://pic.17qq.com/uploads/wwqqpwfwky.jpeg"
 image: "images/poemspotlight.jpg"
