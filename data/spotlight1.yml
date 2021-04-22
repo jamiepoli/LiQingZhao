@@ -4,7 +4,6 @@ id: "first"
 title : "Analysis of Her Collection"
 content: |
   We consolidate known records and remnants of her remaining <strong>collection</strong>, and through this we hope to acheive a way to return to her a sense of ownership over what was lost to her.
-button: 
-  label: "Learn More"
-  link: "#"
+
+  <italic>image courtesy of shoyencollection</italic>
 image: "https://www.schoyencollection.com/media/djcatalog2/images/liu-zongyuan-complete-works-of-poetry-ms-2664_f.jpg"
